@@ -1,0 +1,5 @@
+{
+  "name": "WinCC OA Code Reviewer",
+  "description": "Automated code review, formatting, and standardization tool for Siemens WinCC OA CTRL scripts using Gemini AI.",
+  "requestFramePermissions": []
+}
